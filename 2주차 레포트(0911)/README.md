@@ -48,5 +48,29 @@
 <h4>109쪽 5번 문제입니다.</h4>
 <img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/96b3212b-b6f7-42c3-a4d9-4dc281d36709">
 <img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/b369e8ff-1ff5-49ec-acad-b8115976cf84">
-<img width="300" src="">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/6ec1db5c-7034-4c67-9e71-4947074d774f">
 <img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/46fa575e-d732-419b-91b6-40f51dc0d4c7">
+<br>
+<br>
+<li>target="_blank" 속성을 사용하여 링크가 클릭되면 새 탭을 열어 사이트가 출력되도록 하였습나다.</li>
+<br>
+<br>
+<h4>109쪽 6번 문제입니다.</h4>
+<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/a43e30e5-50e3-4c44-bb52-97674eb825d6">
+<br>
+<br>
+<li>iframe을 활용하여 링크를 클릭할 시, 오른쪽 iframe에 해당 사이트를 출력하도록 하였습니다.</li>
+<br>
+<br>
+<h4>110쪽 7번 문제입니다.</h4>
+<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/b74bb8f8-f07d-4e8a-9ff5-416d365fd6bc">
+<br>
+<br>
+<li>audio 태그를 이용하여 애국가가 담긴 오디오 파일을 출력하도록 하였습니다.</li>
+<br>
+<br>
+<h4>110쪽 8번 문제입니다.</h4>
+<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/f0d7b969-5ba6-49f9-ae93-2159676d954f">
+<br>
+<br>
+<li>video 태그를 이용하여 영상을 출력하도록 하였습니다.</li>
