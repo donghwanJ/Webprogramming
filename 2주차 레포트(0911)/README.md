@@ -8,5 +8,5 @@
 <br>
 <br>
 <h4>104쪽 오픈 챌린지 문제입니다.</h4>
-<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/ecfe0722-8163-4937-895d-08509890f2b1">
-
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/ecfe0722-8163-4937-895d-08509890f2b1">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/03a11af6-c1d8-4515-875c-372d9fa3c7d6">
