@@ -5,7 +5,7 @@
   <caption>인덱스 목차</caption>
   <tbody>
     <tr>
-      <td><img src="2주차 레포트(0911)\README\index.jpg" width="100" height="100></td>
+      <td><img src="\2주차 레포트(0911)\README\index.jpg" width="100" height="100></td>
     </tr>
   </tbody>
 </table>
