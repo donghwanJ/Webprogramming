@@ -23,8 +23,8 @@
 <br>
 <br>
 <h4>108쪽 2번 문제입니다.</h4>
-<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/3772ad12-86db-4653-8557-bfbc193b93f3">
-<img width="500" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/0daf9c1e-babb-44be-a765-9998d6dfaf6b">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/3772ad12-86db-4653-8557-bfbc193b93f3">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/0daf9c1e-babb-44be-a765-9998d6dfaf6b">
 <br>
 <br>
 <li>리스트를 이용하여 문제를 출력하였습니다.</li>
@@ -35,3 +35,18 @@
 <br>
 <br>
 <li>테이블을 이용하여 표를 만들고 이미지를 삽입하여 출력하였습니다.</li>
+<br>
+<br>
+<h4>108쪽 4번 문제입니다.</h4>
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/984ed78a-985b-457f-a564-83b05121a976">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/cd761660-a8dd-419f-adcd-06f244b0a531">
+<br>
+<br>
+<li>테이블을 이용하여 헤드, 바디, 풋을 작성하여 표를 출력하였습니다.</li>
+<br>
+<br>
+<h4>109쪽 5번 문제입니다.</h4>
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/96b3212b-b6f7-42c3-a4d9-4dc281d36709">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/b369e8ff-1ff5-49ec-acad-b8115976cf84">
+<img width="300" src="">
+<img width="300" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/46fa575e-d732-419b-91b6-40f51dc0d4c7">
