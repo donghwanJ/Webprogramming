@@ -5,7 +5,7 @@
   <caption>인덱스 목차</caption>
   <tbody>
     <tr>
-      <td><img src="https://github.com/donghwanJ/Webprogramming/assets/144616736/03f507a4-169a-4da1-8fa2-89cbc09e7f96" width="100" height="100></td>
+      <td><img src="https://github.com/donghwanJ/Webprogramming/assets/144616736/03f507a4-169a-4da1-8fa2-89cbc09e7f96" width="500" height="500></td>
     </tr>
   </tbody>
 </table>
