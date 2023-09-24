@@ -28,7 +28,7 @@
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/c8839f1d-2312-48cf-97a1-2bdacca7a8d3">
 
 # 209쪽 8번
-<img width="1254" alt="image" src="(https://github.com/donghwanJ/Webprogramming/assets/144616736/2421ffab-4985-4f34-b50e-a3b0408555d9">
+<img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/2421ffab-4985-4f34-b50e-a3b0408555d9">
 
 # 210쪽 9번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/73e4a010-b371-4506-9876-508cc63265a4">
