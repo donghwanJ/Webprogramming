@@ -71,7 +71,7 @@
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/0a47fe75-0df5-4bfd-ae51-ee7fcba6328e">
 
 # 256쪽 9번
-<img width="1254" alt="image" src="">
+<img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/d918acaa-7f29-471e-8359-97d3e5ca7534">
 
 # 256쪽 10번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/a164bee6-867a-4041-8b38-7dbcdb91da73">
