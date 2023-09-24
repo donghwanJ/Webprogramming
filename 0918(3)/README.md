@@ -10,13 +10,13 @@
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/3b7a569d-843c-4715-aa94-c90288a098d5">
 
 # 207쪽 2번
-<img width="927" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/7b9a3043-84dd-4664-bfd2-bd56e6fa0d8e">
+<img width="600" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/7b9a3043-84dd-4664-bfd2-bd56e6fa0d8e">
 
 # 207쪽 3번
-<img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/7cb35927-1a50-4885-bc21-5d1a2f0a4eb9">
+<img width="600" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/7cb35927-1a50-4885-bc21-5d1a2f0a4eb9">
 
 # 208쪽 4번
-<img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/c78c703a-4577-4f94-8b1e-a9344a103ed1">
+<img width="600" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/c78c703a-4577-4f94-8b1e-a9344a103ed1">
 
 # 208쪽 5번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/b5cb7af9-83ab-4f18-9eae-9c41d2b5c7cb">
