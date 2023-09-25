@@ -34,8 +34,8 @@
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/73e4a010-b371-4506-9876-508cc63265a4">
 
 # 249쪽 오픈챌린지
-![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/13617206-246d-43ef-b33c-8657f355f706)
-<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/f587a4d3-a953-4ff0-a583-396a56a8e523">
+![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/8f0f8666-870f-45fe-893c-bbed3ea3d6e1)
+<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/202244a9-9bca-4777-acac-1936ce62760d">
 
 # 253쪽 1-1번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/c87de1ce-824e-49ab-a041-2b08b6daff04">
