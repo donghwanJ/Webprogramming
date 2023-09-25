@@ -3,8 +3,8 @@
 ![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/ae412184-2049-4a92-a93e-bdb0256a3884)
 
 # 202쪽 오픈챌린지
-![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/13617206-246d-43ef-b33c-8657f355f706)
-<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/f587a4d3-a953-4ff0-a583-396a56a8e523">
+![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/75772d79-24a2-4592-ac41-b196a86a856a)
+<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/4b896263-f00b-416c-a4d2-2f42aa281ef5">
 
 # 207쪽 1번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/3b7a569d-843c-4715-aa94-c90288a098d5">
@@ -34,8 +34,8 @@
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/73e4a010-b371-4506-9876-508cc63265a4">
 
 # 249쪽 오픈챌린지
-![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/13617206-246d-43ef-b33c-8657f355f706)
-<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/f587a4d3-a953-4ff0-a583-396a56a8e523">
+![image](https://github.com/donghwanJ/Webprogramming/assets/144616736/8f0f8666-870f-45fe-893c-bbed3ea3d6e1)
+<img width="1246" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/202244a9-9bca-4777-acac-1936ce62760d">
 
 # 253쪽 1-1번
 <img width="1254" alt="image" src="https://github.com/donghwanJ/Webprogramming/assets/144616736/c87de1ce-824e-49ab-a041-2b08b6daff04">
