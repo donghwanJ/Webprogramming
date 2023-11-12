@@ -1,11 +1,11 @@
 <h1>7주차 과제</h1>
 <h2>380p-openchallenge</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/93be052a-24f7-4960-b8c5-7e3e69da8c38">
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/8c5c9925-00e4-4bf7-b7a3-38b914351e02">
+<img width="500" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/93be052a-24f7-4960-b8c5-7e3e69da8c38">
+<img width="500" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/8c5c9925-00e4-4bf7-b7a3-38b914351e02">
 
 
 <h2>383p-1(1)</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/74cbfc82-4ddc-4ce0-956a-aa3b96902f8a">
+<img width="250" alt="image" src="">
 
 <h2>383p-1(2)</h2>
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/97ee1e98-3f13-4679-a872-e1c52f0f3547">
@@ -14,7 +14,7 @@
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/1ad12658-9933-4691-a6a7-c5ffcb46c9ac">
 
 <h2>384p-2(1)</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/e57b9869-f82d-4952-93d9-218a7f2ad55f">
+<img width="250" alt="image" src="">
 
 <h2>384p-2(2)</h2>
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/3b29b924-bbb5-41eb-9147-d39d95883a29">
@@ -56,14 +56,14 @@
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/5930b7ab-0379-4151-97ed-83b541c52ca5">
 
 <h2>430p-openchallenge</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/7c9787d0-f915-4b09-a568-70bbf934d257">
+<img width="250" alt="image" src="">
 
 <h2>434p-1</h2>
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/b133c5aa-5412-4140-ab3b-b8db6493ad2e">
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/51c15bd6-cdb8-477d-a45a-769f56a144a9">
 
 <h2>434p-2</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/8258fb00-0a6f-4c04-9c67-f557afd56670">
+<img width="250" alt="image" src="">
 
 <h2>435p-3</h2>
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/d782183a-2de7-43c1-9998-b55e8b29f263">
@@ -75,8 +75,8 @@
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/284e619d-2f4c-40e5-9228-9fbb58306990">
 
 <h2>436p-6</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/046cb076-aa05-48dd-8449-9ecdcffd5449">
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/400c6e39-f3d9-49c3-8dbc-7f529fdf243b">
+<img width="250" alt="image" src="">
+<img width="250" alt="image" src="">
 
 
 <h2>436p-7</h2>
@@ -86,7 +86,7 @@
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/4289b15e-ceae-4558-a630-70a0d282f600">
 
 <h2>437p-9</h2>
-<img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/ecc5da26-f8c9-498b-b663-15ada16d5ab2">
+<img width="250" alt="image" src="">
 
 <h2>438p-10</h2>
 <img width="250" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/c19320b7-9c22-4436-bccc-693d72cb36f7">
