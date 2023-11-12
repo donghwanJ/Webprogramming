@@ -1,4 +1,4 @@
-# Ch8-openChallenge
+<h1>7주차 과제</h1>
 <img width="1062" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/93be052a-24f7-4960-b8c5-7e3e69da8c38">
 <img width="1083" alt="image" src="https://github.com/tealight03/tealight03.github.io/assets/138011998/8c5c9925-00e4-4bf7-b7a3-38b914351e02">
 
